@@ -1,4 +1,4 @@
-****🌈 Mood-Based Quote Generator**
+**🌈 Mood-Based Quote Generator**
 
 The Mood-Based Quote Generator is a web-based application designed to provide personalized quotes based on the user's selected mood. By simply choosing a mood, users can receive motivational, reflective, or uplifting quotes that resonate with their emotional state. This application aims to promote mental well-being through the power of words.
 
